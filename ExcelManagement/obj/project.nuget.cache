@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2+lqbuEwB8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aqila\\Documents\\Activity\\Personal Data\\Projects\\C#\\ExcelManagement\\ExcelManagement\\ExcelManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aqila\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\aqila\\.nuget\\packages\\exceldatareader\\3.7.0\\exceldatareader.3.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

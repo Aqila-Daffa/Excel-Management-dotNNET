@@ -1,0 +1,18 @@
+﻿.upld {
+    background-color: #d3d3d3;
+    color: black;
+    padding: 10px 20px 10px 20px;
+    font-family: sans-serif;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .upld:hover {
+        background-color: darkgrey;
+        color: white;
+    }
+
+    .text-upld {
+        text-align: left;
+        cursor: pointer;
+    }
